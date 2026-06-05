@@ -1,3 +1,12 @@
+---
+title: Gauteng Transport Dashboard
+emoji: 🚍
+colorFrom: red
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # Gauteng Transport Intelligence Dashboard
 
 Interactive transport analytics dashboard for Gauteng province. Real-time tracking, route diagnostics, ML-powered predictions, and AI insights for buses, trains, taxis, and ride-hailing.
