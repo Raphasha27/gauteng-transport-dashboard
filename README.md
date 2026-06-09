@@ -64,21 +64,20 @@ Simulated dataset covering 15 major transport hubs across Gauteng with 6 transpo
 - **fpdf2** — PDF report generation
 
 <br/>
+## Product Ladder
 
----
+```
+GitHub (this repo)
+    ↓
+Portfolio → https://raphasha27.github.io/raphasha-dev-portfolio
+    ↓
+Case Study → (coming soon)
+    ↓
+Live Demo → (check the badges above)
+    ↓
+Contact → https://github.com/Raphasha27
+```
 
-<h3 align="center">🐍 Part of the <a href="https://github.com/Raphasha27">Raphasha27</a> Ecosystem</h3>
+Part of the [Kirov Dynamics Technology](https://github.com/Raphasha27) ecosystem.
 
-<p align="center">
-  <a href="https://github.com/Raphasha27/Raphasha27">
-    <img src="https://img.shields.io/badge/Back_to_Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://raphasha27.github.io/Raphasha27/ai-snake-game/">
-    <img src="https://img.shields.io/badge/▶_Play_AI_Snake-0EA5E9?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-</p>
-
-## License
-
-MIT
+**Built by Koketso Raphasha — Practical AI for Africa**
