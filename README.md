@@ -8,6 +8,8 @@ pinned: false
 ## Product Ladder
 
 ```
+
+[![Security](https://img.shields.io/badge/Security-Policy-1f6feb?style=for-the-badge&logo=github)](SECURITY.md)
 GitHub (this repo)
     ↓
 Portfolio → https://raphasha27.github.io/raphasha-dev-portfolio
