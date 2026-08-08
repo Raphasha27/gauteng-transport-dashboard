@@ -50,3 +50,9 @@ Contact → https://github.com/Raphasha27
 ## License
 
 MIT — see [LICENSE](LICENSE)
+
+## Contributors
+
+This project is developed and maintained together with the team:
+- [Raphasha27](https://github.com/Raphasha27) — Project lead & maintainer
+- [DkMash](https://github.com/DkMash) — Teammate
