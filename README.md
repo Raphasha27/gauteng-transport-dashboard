@@ -51,8 +51,18 @@ Contact → https://github.com/Raphasha27
 
 MIT — see [LICENSE](LICENSE)
 
+<<<<<<< HEAD
 ## Contributors
 
 This project is developed and maintained together with the team:
 - [Raphasha27](https://github.com/Raphasha27) — Project lead & maintainer
 - [DkMash](https://github.com/DkMash) — Teammate
+=======
+---
+
+## Try It Live
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Raphasha27/gauteng-transport-dashboard)
+
+Click the badge to deploy this dashboard on Streamlit Community Cloud (free) — pick repo Raphasha27/gauteng-transport-dashboard, branch main, file streamlit_app.py.
+>>>>>>> 9563dc9 (docs: add Streamlit deploy badge)
