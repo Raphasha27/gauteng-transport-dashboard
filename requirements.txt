@@ -4,7 +4,7 @@ numpy==2.5.1
 plotly==6.9.0
 scikit-learn==1.9.0
 ollama==0.6.2
-fpdf2==2.8.7
+fpdf2==2.8.8
 pydeck==0.9.3
 Pillow==12.3.0
 ruff==0.16.0
