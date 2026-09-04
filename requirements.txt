@@ -1,7 +1,7 @@
 streamlit==1.61.1
 pandas==3.0.5
 numpy==2.5.2
-plotly==6.9.0
+plotly==7.0.0
 scikit-learn==1.9.0
 ollama==0.6.2
 fpdf2==2.8.8
